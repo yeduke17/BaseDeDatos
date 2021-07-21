@@ -1,4 +1,4 @@
-# Basededatos
+# SQL
 drop database if exists Biblioteca3;
 create database Biblioteca3;
 use Biblioteca3;
