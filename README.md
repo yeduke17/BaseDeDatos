@@ -1,4 +1,5 @@
 # SQL
+```
 drop database if exists Biblioteca3;
 create database Biblioteca3;
 use Biblioteca3;
@@ -82,3 +83,5 @@ insert into autores values('001','Vincent del Toro'),('002','Camilo Perez'),('00
 insert into autores_libro values('1017940133100','001'),('1017940133200','002'),('1017940133200','003');
 
 insert into ejemplares(isbn) values ('1017940133200'),('1017940133200'),('1017940133200'),('1017940133100');
+
+```
